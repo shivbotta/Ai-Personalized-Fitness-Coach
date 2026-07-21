@@ -1,0 +1,101 @@
+{
+  "vegetarian": {
+    "breakfast": [
+      "Oatmeal with fruits, nuts, and seeds",
+      "Greek yogurt & berries with granola",
+      "Avocado toast with chili flakes on whole grain bread",
+      "Tofu Scramble with spinach and mushrooms",
+      "Whole wheat pancakes with maple syrup and fruit"
+    ],
+    "lunch": [
+      "Tofu stir-fry with mixed vegetables and brown rice",
+      "Hearty lentil soup with whole grain bread",
+      "Grilled halloumi and veggie sandwich",
+      "Black bean burgers on whole wheat bun with sweet potato fries",
+      "Greek salad with feta, olives, cucumbers, tomatoes, and chickpeas"
+    ],
+    "snacks": [
+      "Mixed nuts and seeds",
+      "Fruit smoothie (e.g., banana, spinach, protein powder)",
+      "Carrot and cucumber sticks with hummus",
+      "Apple slices with peanut butter",
+      "Edamame (steamed with sea salt)",
+      "Cottage cheese with pineapple",
+      "A handful of dried fruits (apricots, figs)",
+      "Plenty of water throughout the day!"
+    ],
+    "dinner": [
+      "Paneer curry (tikka masala or saag) with brown rice or naan",
+      "Vegetable quinoa bowl with roasted sweet potatoes and black beans",
+      "Stuffed bell peppers with rice, beans, and vegetables",
+      "Eggplant Parmesan with whole wheat pasta",
+      "Lentil Shepherd's Pie with mashed cauliflower topping"
+    ]
+  },
+  "vegan": {
+    "breakfast": [
+      "Smoothie with plant protein, spinach, banana, and almond milk",
+      "Vegan whole grain pancakes with berries",
+      "Chia pudding made with coconut milk and topped with fruit",
+      "Oatmeal made with water or plant milk, topped with nuts and seeds",
+      "Tofu scramble with nutritional yeast, turmeric, and black salt"
+    ],
+    "lunch": [
+      "Chickpea 'tuna' salad sandwich on whole grain bread",
+      "Grilled veggie wrap with hummus",
+      "Vegan lentil burger on a lettuce wrap or bun",
+      "Hummus and veggie pita pockets",
+      "Hearty vegetable soup with a side of crusty bread"
+    ],
+    "snacks": [
+      "Almonds or walnuts",
+      "Medjool dates stuffed with almond butter",
+      "Roasted chickpeas (spiced)",
+      "Fresh fruit bowl (berries, melon, grapes)",
+      "Apple slices with cashew butter",
+      "Vegan protein bar",
+      "Seaweed snacks",
+      "Stay hydrated! Lemon water or herbal teas are great."
+    ],
+    "dinner": [
+      "Quinoa and black bean bowl with avocado and salsa",
+      "Vegan coconut curry with tofu or chickpeas and rice",
+      "Stuffed sweet potatoes with black beans, corn, and cashew cream",
+      "Vegan lentil loaf with mushroom gravy and mashed potatoes",
+      "Jackfruit tacos with shredded lettuce, salsa, and guacamole"
+    ]
+  },
+  "no preference": {
+    "breakfast": [
+      "Omelette with veggies (spinach, mushrooms, peppers) and cheese",
+      "Whole grain toast with peanut butter and banana slices",
+      "Protein shake with whey or casein protein",
+      "Breakfast burrito (scrambled eggs, black beans, salsa, cheese)",
+      "Greek yogurt with honey and nuts"
+    ],
+    "lunch": [
+      "Grilled chicken breast salad with mixed greens and vinaigrette",
+      "Turkey and avocado sandwich on whole wheat bread",
+      "Tuna salad with crackers or celery sticks",
+      "Leftover dinner from the night before",
+      "Cobb salad with chicken, bacon, egg, avocado"
+    ],
+     "snacks": [
+      "Hard-boiled eggs",
+      "Greek yogurt cup",
+      "Trail mix (nuts, seeds, dried fruit)",
+      "Beef jerky or turkey jerky",
+      "Cheese stick or slices",
+      "Protein bar",
+      "Small can of tuna or salmon",
+      "Remember to drink plenty of water!"
+    ],
+    "dinner": [
+      "Lean steak with steamed broccoli and a small baked potato",
+      "Baked salmon with roasted asparagus and quinoa",
+      "Chicken and vegetable stir-fry with brown rice",
+      "Pork chops with applesauce and green beans",
+      "Beef and broccoli with rice"
+    ]
+  }
+}

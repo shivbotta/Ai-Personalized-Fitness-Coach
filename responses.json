@@ -1,0 +1,9 @@
+{
+  "greeting": "Hey there! I'm your fitness buddy. Let's get started!",
+  "ask_goal": "What's your fitness goal? (like lose weight, build muscle or general fitness )",
+  "ask_diet": "What’s your diet like?",
+  "ask_motivation": "Why do you want to get fit?",
+  "ask_level": "What’s your current fitness level? (beginner, intermediate, advanced)",
+  "ask_equipment": "What equipment do you have? (e.g., gym, dumbbells, resistance bands)",
+  "error": "Hmm, I did not quite understand that. Could you rephrase it?"
+}

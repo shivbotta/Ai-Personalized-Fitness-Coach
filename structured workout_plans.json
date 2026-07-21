@@ -1,0 +1,338 @@
+{
+  "weight loss": {
+    "beginner": {
+      "no equipment": [
+        "30 min Brisk Walk or Light Jog",
+        "Bodyweight Squats - 15 reps x 3 sets",
+        "Plank - 30 seconds x 4 reps",
+        "Jumping Jacks - 25 reps x 4 sets",
+        "Stairs Climb - 4 floors (or 5 min Step-ups)",
+        "Glute Bridges - 15 reps x 3 sets",
+        "High Knees - 30 seconds x 3 sets"
+      ],
+      "dumbbells": [
+        "Dumbbell Goblet Squats - 12 reps x 3 sets",
+        "Dumbbell Rows (light) - 12 reps per arm x 3 sets",
+        "Walking Lunges (holding light dumbbells) - 10 reps per leg x 3 sets",
+        "Dumbbell Floor Press (light) - 12 reps x 3 sets",
+        "Plank - 30 seconds x 4 reps",
+        "Light Cardio (e.g., Jogging in place) - 15 min"
+      ],
+      "resistance bands": [
+        "Banded Squats - 15 reps x 3 sets",
+        "Banded Good Mornings - 15 reps x 3 sets",
+        "Banded Standing Chest Press (anchor needed) - 12 reps x 3 sets",
+        "Banded Rows (anchor needed) - 12 reps x 3 sets",
+        "Banded Glute Bridges (band around thighs) - 15 reps x 3 sets",
+        "Lateral Band Walks - 10 steps each way x 3 sets",
+        "Light Cardio (e.g., Marching in place) - 15 min"
+      ],
+      "gym workout": [
+        "Treadmill/Elliptical - 20 min steady pace",
+        "Leg Press Machine (light) - 15 reps x 3 sets",
+        "Lat Pulldown Machine (light) - 12 reps x 3 sets",
+        "Machine Chest Press (light) - 12 reps x 3 sets",
+        "Assisted Pull-ups or Dips (if available) - 8-10 reps x 3 sets",
+        "Plank - 30 seconds x 4 reps",
+        "Bodyweight Squats - 15 reps x 3 sets"
+      ]
+    },
+    "intermediate": {
+       "no equipment": [
+        "HIIT Bodyweight Circuit (e.g., 30s work/15s rest: Jump Squats, Push-ups, Mountain Climbers, Burpees) - 20 min total",
+        "Walking Lunges - 15 reps per leg x 3 sets",
+        "Pike Push-ups - Max reps x 3 sets",
+        "Flutter Kicks - 45 sec x 3 sets",
+        "Jump Rope (if available) or Phantom Rope - 10 min",
+        "Single Leg Glute Bridges - 12 reps per leg x 3 sets"
+      ],
+      "dumbbells": [
+        "Dumbbell Thrusters - 12 reps x 4 sets",
+        "Renegade Rows - 8 reps per arm x 3 sets",
+        "Dumbbell Romanian Deadlifts - 12 reps x 3 sets",
+        "Dumbbell Bench Press (if bench available) or Floor Press - 10 reps x 4 sets",
+        "Goblet Squats - 15 reps x 4 sets",
+        "Dumbbell Bicep Curls to Overhead Press - 10 reps x 3 sets",
+        "HIIT Cardio (Dumbbell Swings, Burpees) - 15 min"
+      ],
+      "resistance bands": [
+        "Banded Squat Jumps - 15 reps x 4 sets",
+        "Banded Push-ups (band across back) - Max reps x 3 sets",
+        "Banded Pull-Aparts - 20 reps x 3 sets",
+        "Banded Single Arm Rows (anchored) - 12 reps per arm x 3 sets",
+        "Banded Thrusters (stand on band) - 12 reps x 4 sets",
+        "Banded Hamstring Curls (anchored) - 15 reps x 3 sets",
+        "Cardio Burst (Banded Running in Place) - 10 min"
+      ],
+      "gym workout": [
+        "HIIT Cardio (e.g., treadmill sprints, bike intervals, rower) - 20 min",
+        "Barbell Back Squats - 8-12 reps x 3 sets",
+        "Push-ups (standard or decline) - Max reps x 3 sets",
+        "Kettlebell Swings - 15 reps x 4 sets",
+        "Cable Rows - 10-12 reps x 3 sets",
+        "Overhead Press - Barbell/Dumbbell - 8-10 reps x 3 sets",
+        "Mountain Climbers - 45 sec x 3 sets"
+      ]
+    },
+    "advanced": {
+        "no equipment": [
+          "Handstand Push-up Practice (against wall or freestanding) - Max reps x 3 sets",
+          "Plyometric Push-ups - 8-10 reps x 4 sets",
+          "Burpee Box Jumps (use sturdy chair/step if no box) - 10 reps x 4 sets",
+          "L-Sit Hold Practice - Max hold x 4 sets",
+          "Sprint Intervals (outdoors or stairs) - 8 rounds x 30 sec sprint / 60 sec rest",
+          "Dragon Flags Practice - Max reps x 3 sets"
+        ],
+        "dumbbells": [
+          "Devil's Press - 6-8 reps x 4 sets",
+          "Single Arm Dumbbell Snatch - 8 reps per arm x 3 sets",
+          "Bulgarian Split Squats (holding dumbbells) - 10 reps per leg x 3 sets",
+          "Heavy Dumbbell Bench Press (if bench available) or Floor Press - 6-10 reps x 4 sets",
+          "Single Leg Romanian Deadlifts (holding dumbbells) - 8 reps per leg x 3 sets",
+          "Man Makers - 5 reps x 5 sets",
+          "Farmer's Walk (heavy dumbbells) - 3 sets of 50 meters"
+        ],
+        "resistance bands": [
+          "Heavy Banded Deadlifts (stand on multiple bands if needed) - 8-12 reps x 4 sets",
+          "Banded Sprints (anchor needed) - 15 seconds x 8 reps",
+          "Banded Overhead Squats (band held overhead) - 10 reps x 3 sets",
+          "Archer Push-ups with Band Resistance - Max reps x 3 sets",
+          "Banded Face Pulls (anchored) - 15 reps x 4 sets",
+          "Banded Pallof Press (anchored) - 10 reps per side x 3 sets",
+          "Circuit: Banded Jumps, Banded Pushups, Banded Rows - 4 rounds"
+        ],
+        "gym workout": [
+          "Hill Sprints or Prowler Pushes - 6-8 reps",
+          "Barbell Deadlifts - 3-5 reps x 4 sets",
+          "Barbell Bench Press - 5 reps x 5 sets",
+          "Weighted Pull-ups - 5-8 reps x 4 sets",
+          "Kettlebell Snatches - 10 reps per arm x 3 sets",
+          "Battle Ropes - 30 sec on / 30 sec off x 6 rounds",
+          "Barbell Thrusters - 8-10 reps x 4 sets"
+        ]
+    }
+  },
+  "muscle gain": {
+    "beginner": {
+       "no equipment": [
+        "Incline Push-ups (use table/chair) - 12-15 reps x 3 sets",
+        "Bodyweight Squats - 20 reps x 3 sets",
+        "Glute Bridges - 20 reps x 3 sets",
+        "Negative Push-ups (lower slowly) - Max reps x 3 sets",
+        "Reverse Lunges - 10 reps per leg x 3 sets",
+        "Plank - Hold 45-60 sec x 3 sets",
+        "Towel Rows (need sturdy anchor/partner) - 12 reps x 3 sets"
+      ],
+      "dumbbells": [
+        "Goblet Squats (with dumbbell) - 12 reps x 3 sets",
+        "Dumbbell Bench Press (floor or bench) - 10-12 reps x 3 sets",
+        "Dumbbell Rows - 12 reps per arm x 3 sets",
+        "Dumbbell Bicep Curls - 12 reps x 3 sets",
+        "Dumbbell Overhead Press (seated or standing) - 10 reps x 3 sets",
+        "Dumbbell Romanian Deadlifts (light) - 15 reps x 3 sets",
+        "Lateral Raises (light dumbbells) - 15 reps x 3 sets"
+      ],
+      "resistance bands": [
+        "Banded Squats - 15-20 reps x 3 sets",
+        "Banded Chest Press (anchored) - 12-15 reps x 3 sets",
+        "Banded Rows (anchored) - 12-15 reps x 3 sets",
+        "Banded Bicep Curls - 15 reps x 3 sets",
+        "Banded Overhead Press (stand on band) - 12 reps x 3 sets",
+        "Banded Pull-Aparts - 20 reps x 3 sets",
+        "Banded Triceps Extensions (overhead or pushdown) - 15 reps x 3 sets"
+      ],
+      "gym workout": [
+        "Machine Leg Press - 12-15 reps x 3 sets",
+        "Machine Chest Press - 10-12 reps x 3 sets",
+        "Lat Pulldown Machine - 10-12 reps x 3 sets",
+        "Machine Shoulder Press - 10-12 reps x 3 sets",
+        "Leg Extension Machine - 15 reps x 3 sets",
+        "Hamstring Curl Machine - 15 reps x 3 sets",
+        "Machine Bicep Curls - 12 reps x 3 sets"
+      ]
+    },
+    "intermediate": {
+       "no equipment": [
+         "Standard Push-ups - Max reps x 4 sets",
+         "Bulgarian Split Squats (rear foot elevated) - 10-12 reps per leg x 3 sets",
+         "Pike Push-ups - 10-15 reps x 3 sets",
+         "Single Leg Glute Bridges - 15 reps per leg x 3 sets",
+         "Hanging Knee Raises (if pull-up bar available) or Reverse Crunches - 15 reps x 3 sets",
+         "Isometric Holds (Wall Sit, Plank, Squat Hold) - 60 sec x 3 sets"
+      ],
+      "dumbbells": [
+         "Dumbbell Bench Press - 8-12 reps x 4 sets",
+         "Dumbbell Rows - 8-12 reps per arm x 4 sets",
+         "Goblet Squats (heavy) - 8-12 reps x 4 sets",
+         "Dumbbell Shoulder Press - 8-12 reps x 4 sets",
+         "Dumbbell Romanian Deadlifts - 10-12 reps x 3 sets",
+         "Concentration Curls - 10 reps per arm x 3 sets",
+         "Dumbbell Skullcrushers (carefully!) - 10-12 reps x 3 sets"
+      ],
+      "resistance bands": [
+        "Heavy Banded Squats (multiple bands/heavy band) - 8-12 reps x 4 sets",
+        "Banded Push-ups (band across back) - Max reps x 4 sets",
+        "Heavy Banded Rows (anchored) - 10-15 reps x 4 sets",
+        "Banded Overhead Press (stand on band) - 10-15 reps x 4 sets",
+        "Banded Good Mornings - 12-15 reps x 3 sets",
+        "Banded Face Pulls (anchored) - 15-20 reps x 3 sets",
+        "Banded Bicep/Tricep Superset - 12-15 reps each x 3 sets"
+      ],
+       "gym workout": [
+        "Barbell Back Squats - 8-10 reps x 4 sets",
+        "Barbell Bench Press - 8-10 reps x 4 sets",
+        "Pull-ups or Lat Pulldowns - Max reps (or 8-12 reps) x 4 sets",
+        "Overhead Press - Dumbbell - 8-10 reps x 4 sets",
+        "Bent-Over Rows - Barbell - 8-12 reps x 3 sets",
+        "Romanian Deadlifts - Barbell - 10 reps x 3 sets",
+        "Dips (assisted/bodyweight) - Max reps x 3 sets"
+      ]
+    },
+    "advanced": {
+       "no equipment": [
+         "Handstand Push-ups (freestanding or wall) - Max reps x 4 sets",
+         "Pistol Squats - 6-10 reps per leg x 4 sets",
+         "Muscle-up Progression/Practice (if bar available) or Explosive Pull-ups - Max reps x 4 sets",
+         "Planche Leans/Tucks - Hold/Max reps x 4 sets",
+         "Nordic Hamstring Curls (partner or anchor needed) - Max reps x 3 sets",
+         "Archer Push-ups - Max reps per side x 3 sets",
+         "Front Lever Tucks/Practice (if bar available) - Max hold/reps x 4 sets"
+       ],
+       "dumbbells": [
+        "Heavy Dumbbell Bench Press - 6-10 reps x 4 sets",
+        "Heavy Dumbbell Rows (supported) - 6-10 reps per arm x 4 sets",
+        "Heavy Goblet Squats - 6-10 reps x 4 sets",
+        "Arnold Press - 8-12 reps x 4 sets",
+        "Single Leg Romanian Deadlifts (heavy) - 6-8 reps per leg x 3 sets",
+        "Zottman Curls - 8-10 reps x 3 sets",
+        "Weighted Push-ups (dumbbell on back if safe) - Max reps x 3 sets"
+       ],
+       "resistance bands": [
+         "Max Resistance Banded Deadlifts - 6-10 reps x 5 sets",
+         "Explosive Banded Push-ups - 8-12 reps x 4 sets",
+         "Heavy Banded Overhead Press - 8-12 reps x 4 sets",
+         "Banded Nordic Curls (anchor needed) - Max reps x 3 sets",
+         "Band Resisted Pull-up/Dip Practice - 6-10 reps x 4 sets",
+         "Banded Zercher Squats - 8-12 reps x 4 sets",
+         "Banded Finisher Circuit (curls, pushdowns, pull-aparts) - 3 rounds to failure"
+       ],
+       "gym workout": [
+        "Conventional Deadlifts - 3-5 reps x 5 sets",
+        "Incline Barbell Bench Press - 6-10 reps x 4 sets",
+        "Weighted Pull-ups - 6-8 reps x 4 sets",
+        "Barbell Front Squats - 6-8 reps x 4 sets",
+        "Barbell Rows (Pendlay or Yates) - 6-10 reps x 4 sets",
+        "Weighted Dips - 6-10 reps x 4 sets",
+        "Rack Pulls - 5 reps x 3 sets"
+      ]
+    }
+  },
+  "general fitness": {
+    "beginner": {
+        "no equipment": [
+          "Dynamic Stretching (e.g., arm circles, leg swings) - 5 min",
+          "Light Jog or Fast Walk - 15-20 minutes",
+          "Bodyweight Squats - 15 reps x 3 sets",
+          "Wall Push-ups or Incline Push-ups - 15 reps x 3 sets",
+          "Bird Dog - 10 reps per side x 3 sets",
+          "Plank - 30 sec x 3 sets",
+          "Cool-down Walk & Stretching - 5-10 min"
+        ],
+        "dumbbells": [
+          "Light Cardio Warm-up - 5 min",
+          "Dumbbell Goblet Squats - 12 reps x 3 sets",
+          "Dumbbell Rows - 12 reps per arm x 3 sets",
+          "Dumbbell Floor Press - 12 reps x 3 sets",
+          "Standing Dumbbell Shoulder Press - 10 reps x 3 sets",
+          "Dumbbell Bicep Curls - 12 reps x 2 sets",
+          "Cool-down Walk & Stretching - 5 min"
+        ],
+        "resistance bands": [
+          "Light Cardio Warm-up - 5 min",
+          "Banded Squats - 15 reps x 3 sets",
+          "Banded Rows (anchored) - 15 reps x 3 sets",
+          "Banded Chest Press (anchored) - 15 reps x 3 sets",
+          "Banded Pull-Aparts - 15 reps x 3 sets",
+          "Lateral Band Walks - 10 steps each way x 2 sets",
+          "Cool-down & Stretching - 5 min"
+        ],
+        "gym workout": [
+          "Cycling or Elliptical Warm-up - 5-10 min",
+          "Leg Press Machine - 15 reps x 3 sets",
+          "Seated Cable Rows - 12 reps x 3 sets",
+          "Machine Chest Press - 12 reps x 3 sets",
+          "Machine Shoulder Press - 12 reps x 3 sets",
+          "Ab Crunch Machine or Crunches - 15 reps x 3 sets",
+          "Cool-down on Bike & Stretching - 5-10 min"
+        ]
+    },
+    "intermediate": {
+        "no equipment": [
+          "Jogging Warm-up - 5 min",
+          "Circuit (45s work/15s rest x 3 rounds): Jump Squats, Push-ups, Lunges, Plank Jacks, High Knees",
+          "Burpees - 10 reps x 3 sets",
+          "Glute Bridges - 20 reps x 3 sets",
+          "Superman - 15 reps x 3 sets",
+          "Cool-down Jog & Static Stretching - 10 min"
+        ],
+        "dumbbells": [
+          "Warm-up (Jumping Jacks, Arm Circles) - 5 min",
+          "Dumbbell Step-ups - 10 reps per leg x 3 sets",
+          "Dumbbell Bench Press - 10 reps x 3 sets",
+          "Renegade Rows - 8 reps per arm x 3 sets",
+          "Dumbbell Shoulder Press - 10 reps x 3 sets",
+          "Dumbbell Swings - 15 reps x 3 sets",
+          "Cool-down Walk & Stretching - 5 min"
+        ],
+        "resistance bands": [
+           "Warm-up (Dynamic Stretching) - 5 min",
+           "Circuit (40s work/20s rest x 3 rounds): Banded Squat Jumps, Banded Pushups, Banded Rows, Banded Good Mornings",
+           "Banded Pallof Press - 12 reps per side x 3 sets",
+           "Banded Hamstring Curls - 15 reps x 3 sets",
+           "Banded Face Pulls - 15 reps x 3 sets",
+           "Cool-down & Stretching with band assist - 5 min"
+        ],
+        "gym workout": [
+          "Rowing Machine Warm-up - 5 min",
+          "Barbell Back Squats or Goblet Squats - 10 reps x 3 sets",
+          "Incline Dumbbell Press - 12 reps x 3 sets",
+          "Pull-ups or Lat Pulldowns - Max reps or 10 reps x 3 sets",
+          "Kettlebell Halos - 10 reps per direction x 2 sets",
+          "Hanging Leg Raises or Cable Crunches - 15 reps x 3 sets",
+          "Elliptical Trainer or Bike Cool-down - 10 min"
+        ]
+    },
+    "advanced": {
+        "no equipment": [
+          "Advanced Warm-up (include animal flows, mobility drills) - 10 min",
+          "Complex Circuit (4 rounds): 10 Burpees, 15 Pistol Squats (alternating), 20 Push-up Variations, 30 sec Handstand Hold (wall ok), 40 Jump Lunges",
+          "Sprint Intervals (outdoors/stairs) - 6 x 200m (or 60s effort)",
+          "Core Finisher: 3 rounds of 1 min Plank, 15 V-ups, 1 min Side Plank (each side)",
+          "Cool-down & Deep Stretching & Foam Rolling - 10-15 min"
+        ],
+        "dumbbells": [
+          "Warm-up (include jump rope) - 10 min",
+          "Complex (5 rounds): 8 Dumbbell Snatches (alt arms), 10 Goblet Squats, 12 Dumbbell Push Press",
+          "Single Arm Farmer's Walk - 3 x 40 meters per arm",
+          "Weighted Plank (dumbbell on back) - 3 x 60 sec hold",
+          "Turkish Get-up Practice (light weight) - 3 reps per side x 2 sets",
+          "Cool-down & Stretching - 10 min"
+        ],
+        "resistance bands": [
+          "Warm-up (include band mobility) - 10 min",
+          "Strength Circuit (4 rounds): 10 Heavy Banded Deadlifts, 12 Band Resisted Push-ups, 15 Banded Rows, Max Banded Pull-Aparts",
+          "Agility Work: Band Resisted Lateral Shuffles (3 x 30s each side)",
+          "Core Work: Banded Woodchoppers (3 x 12 per side), Banded Crunches (3 x 20)",
+          "MetCon Finisher (AMRAP 7 min): 5 Banded Thrusters, 10 Banded Squat Jumps",
+          "Cool-down & Band Stretching - 10 min"
+        ],
+        "gym workout": [
+          "Crossfit Style WOD (Workout of the Day) - Check online resources or program one (e.g., AMRAP 20: 5 Pull-ups, 10 Push-ups, 15 Air Squats - 'Cindy')",
+          "Olympic Lifting Practice (Snatch/Clean & Jerk) - focus on form/complexes",
+          "Strongman Element Practice (e.g., Tire Flips, Log Press, Atlas Stones - if available)",
+          "Accessory Work: Glute Ham Raises, Reverse Hypers, Cable Work",
+          "Mobility Work & Foam Rolling - 15 min"
+        ]
+    }
+  }
+}
